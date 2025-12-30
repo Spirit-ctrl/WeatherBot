@@ -57,8 +57,16 @@ pip install -r requirements.txt
 ## ⚙️ Настройка
 
 ```env
-WEATHER_API_KEY=your_api_key_here
-DEFAULT_CITY=London
+TOKEN= 8575800527:***********************************
+API_TOKEN=d0cd3c**************************
+
+
+DB_HOST = localhost
+DB_PORT = 5432
+DB_NAME = postgres
+DB_USER = postgres
+DB_PASSWORD = 0102
+
 ```
 
 ---
